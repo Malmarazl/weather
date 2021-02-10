@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title_Seek">Temperature</string>
+    <string name="title_seek_min">Min</string>
+    <string name="title_seek_max">Max</string>
+    <string name="buttonSave">Save</string>
+</resources>
